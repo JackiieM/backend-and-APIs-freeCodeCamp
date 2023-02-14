@@ -1,5 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"author": "JackiieM",
+	"description": "first module of the Backend and APIs freeCodeCamp certification",
+	"keywords": [
+		"studying",
+		"backend",
+		"API",
+		"NodeJS",
+		"Express",
+		"freecodecamp"
+	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
